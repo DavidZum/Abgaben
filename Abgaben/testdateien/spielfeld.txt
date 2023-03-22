@@ -1,0 +1,10 @@
+_9 _f _f _f _f _f _f _f _f _5
+_9 _f _0 _0 _0 _0 _0 _f _f _5
+_f _f _f _f _f _f _f _f _f _5
+_2 _2 _2 _2 _f _8 _8 _f _f _f
+_f _f _f _f _f _f _f _f _f _f
+_f _f _f _f _f _1 _1 _1 _1 _f
+_f _4 _4 _4 _f _f _f _f _f _f
+_f _f _f _f _f _f _f _f _3 _f
+_f _6 _6 _f _f _7 _7 _f _3 _f
+_f _f _f _f _f _f _f _f _3 _f
